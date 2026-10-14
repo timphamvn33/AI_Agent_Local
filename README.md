@@ -2,14 +2,14 @@
 
 An interactive, local AI chatbot interface powered by Streamlit and served via Ollama using the Qwen model.
 
-## 🚀 Dev Stacks
+## Dev Stacks
 * **AI Model:** Qwen 3.5 (9B Parameter)
 * **Local Backend:** Ollama
 * **Frontend UI:** Streamlit
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before running the application, make sure you have the following prerequisites installed on your system.
 
@@ -26,7 +26,7 @@ Ensure you are using a stable Python release (Python 3.10 to 3.13 is recommended
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 Follow these steps to set up your local development environment.
 
@@ -54,7 +54,7 @@ Follow these steps to set up your local development environment.
 
 ---
 
-## 🏃 How to Run the App
+## How to Run the App
 
 1. Ensure your virtual environment is active and Ollama is running.
 2. Launch the Streamlit application interface:
